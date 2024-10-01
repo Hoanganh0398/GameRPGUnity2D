@@ -1,3 +1,4 @@
+# GameRPGUnity2D
 Trò chơi 2D thủ thành kết hợp vượt ải và quản lý tài nguyên, người chơi điều khiển  nhân vật bằng chuột, các phím hoặc tay cầm, nhập vai vào nhân vật và cùng nhân vật bảo vệ thành lũy khỏi các đợt tấn công của kẻ thù.
 Gameplay
 Người chơi có thể dùng chuột và bàn phím điều khiển nhân vật di chuyển và thao tác trên các ô lưới, đồng thời cũng có thể tương tác với các NPC xung quanh.
